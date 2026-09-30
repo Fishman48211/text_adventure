@@ -9,15 +9,15 @@
 // Tier 3
 // [name] the [prefix] [type] of [postfix]
 
-void generate_enemy_tier1(struct Enemy *Enemy) {
+void generate_enemy_tier1(struct Enemy *enemy) {
     
 }
 
-void generate_enemy_tier2(struct Enemy *Enemy) {
+void generate_enemy_tier2(struct Enemy *enemy) {
     
 }
 
-void generate_enemy_tier3(struct Enemy *Enemy) {
+void generate_enemy_tier3(struct Enemy *enemy) {
     
 }
 
